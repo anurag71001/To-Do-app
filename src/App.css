@@ -1,5 +1,36 @@
-.App {
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 25px;
+  background-color: #caea109e;
+  height: 100vh;
+  font-family: sans-serif;
+
+}
+.App h1{
+  color: white;
+  font-size: 40px;
+  padding: 10px 0;
   text-align: center;
+  border-radius: .5rem .5rem 0 0;
+  background-color: #de3f53;
+  font-family: sans-serif;
+}
+ .App form{
+  display: flex;
+  width: 100%;
+  /* background-color: #262e4c; */
+} 
+.App form Input{
+  background-color: #bfbbbb;
+  font-size: 18px;
+  color: black;
+  padding: 10px;
+  width: 90%;
+}
+.button{
+  cursor: pointer;
 }
 
 .App-logo {
@@ -21,7 +52,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: red;
 }
 
 .App-link {

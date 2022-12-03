@@ -1,0 +1,15 @@
+.lists{
+    
+}
+.content{
+    /* padding: 10px; */
+    /* margin: 5px; */
+margin: auto;  
+background-color: #5d80ff;
+  border: 2px solid #3a4674;
+  border-radius: 8px;
+  padding: 0px;
+}
+.button{
+    cursor: pointer;
+}
