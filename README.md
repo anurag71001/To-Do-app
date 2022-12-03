@@ -1,4 +1,4 @@
-Ypu can checkout the deployed model :-
+You can checkout the deployed model :-
 https://todo-app-47a53.web.app
 
 # Getting Started with Create React App
